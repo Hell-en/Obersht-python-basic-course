@@ -1,3 +1,3 @@
 # Obersht-python-basic-course NSU
 
-### Basic algorytms problems with data structures
+### Basic algorytm problems with data structures
